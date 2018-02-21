@@ -1,7 +1,5 @@
 # Roulette
 
-# EnveloppeConvexe
-
 [GitHub Link](https://www.github.com/lgrandperrin/Roulette/)
 
 The goal of that project is to implements the french roulette in Java language.
@@ -19,4 +17,4 @@ Compile the .java in the console and run it.
 
 ## Built with
 
-* [Cynthia Maillard]()
+* [Cynthia Maillard](https://github.com/Kiraya08)
