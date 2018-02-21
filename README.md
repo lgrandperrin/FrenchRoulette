@@ -1,4 +1,4 @@
-# Roulette
+# French roulette
 
 [GitHub Link](https://www.github.com/lgrandperrin/Roulette/)
 
